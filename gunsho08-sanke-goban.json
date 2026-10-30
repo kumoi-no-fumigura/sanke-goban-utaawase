@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanke-goban-utaawase",
  "yomi": "さんけごばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（五題・各五番）",
+  "era": "天仁3年（1110）4月",
+  "author": "未詳",
+  "desc": "山家で催された、五題を五番ずつ番えた歌合。卯花・野草・郭公・寄衣恋などの題で、仲実・師時・俊頼・顕国・雅兼・琳賢らが詠む。"
+ },
  "editions": [
   {
    "pid": "1879502",
